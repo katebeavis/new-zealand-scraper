@@ -1,0 +1,5 @@
+require 'web_scraper'
+require 'nokogiri'
+require 'vcr'
+require 'pry'
+require 'pry-nav'
